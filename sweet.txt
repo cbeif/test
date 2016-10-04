@@ -1,5 +1,8 @@
 Holy crap
 I added a file to GIT
 
-Now I modified the file!
+Now I modified the file again!
 Wo hoo..
+
+What a third commit,
+are you friggin kidding me!
