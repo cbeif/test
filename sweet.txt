@@ -1,2 +1,5 @@
 Holy crap
 I added a file to GIT
+
+Now I modified the file!
+Wo hoo..
